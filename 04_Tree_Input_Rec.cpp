@@ -1,5 +1,7 @@
 /*
-Input Tree Using Recursively
+Input Tree Using Recursively Not Level Wise
+So Input Is Hard But Coding Is Simple
+This Is Bad Way To Make Tree User Need To Know Recursion To Make Tree
 */
 #include<iostream>
 #include<vector>
